@@ -7,10 +7,10 @@
 * ## Data Collection and Cleaning
  
 * ## Convolutional Neural Network
-  * #Results
+  '*' ## Results
 
-* #Generational Adversarial Network
-  * #Results
+* ## Generational Adversarial Network
+  * ## Results
 
 
 <!-- About The Project -->
