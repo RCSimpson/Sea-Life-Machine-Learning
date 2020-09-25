@@ -9,5 +9,15 @@
 * [Convolutional Neural Network](#Convolutional Neural Network)
   * [Results](#Results)
 
-* [Convolutional Neural Network](#Generational Adversarial Network)
+* [Generational Adversarial Network](#Generational Adversarial Network)
   * [Results](#Results)
+
+
+<!-- About The Project -->
+## About The Project
+
+<!-- Convolutional Neural Network -->
+## Convolutional Neural Network
+
+<!-- Generational Adversarial Network -->
+## Generational Adversarial Network
