@@ -3,14 +3,14 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Getting Started](#Data Collection and Cleaning)
+*#about-the-project
+*#Data Collection and Cleaning
 
-* [Convolutional Neural Network](#Convolutional Neural Network)
-  * [Results](#Results)
+*#Convolutional Neural Network
+  * #Results
 
-* [Generational Adversarial Network](#Generational Adversarial Network)
-  * [Results](#Results)
+* #Generational Adversarial Network
+  * #Results
 
 
 <!-- About The Project -->
