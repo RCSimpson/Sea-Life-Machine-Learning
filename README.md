@@ -1,2 +1,11 @@
 # Sea-Life-Machine-Learning
-Here I collect images using a webscrapper. I then clean, homogenize, and label the data. I then train a machine using Tensorflow to identify particular sea creatures. 
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Getting Started](#Data Collection and Cleaning)
+*[Convolutional Neural Network](#Convolutional Neural Network)
+* [Results](#Results)
+*[Convolutional Neural Network](#Generational Adversarial Network)
+* [Results](#Results)
