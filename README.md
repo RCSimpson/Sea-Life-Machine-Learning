@@ -3,14 +3,14 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* ## about-the-project
-* ## Data Collection and Cleaning
+## about-the-project
+## Data Collection and Cleaning
  
-* ## Convolutional Neural Network
-  '*' ## Results
+## Convolutional Neural Network
+ ## Results
 
-* ## Generational Adversarial Network
-  * ## Results
+## Generational Adversarial Network
+ ## Results
 
 
 <!-- About The Project -->
