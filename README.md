@@ -8,8 +8,8 @@
 
 ## Data Collection and Cleaning
 <p>
-<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/0.jpg">
-<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/1.jpg">
-<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/2.jpg">
-<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/7.jpg">
+<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/0.jpg" width = "200" height = "200" >
+<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/1.jpg" width = "200" height = "200" >
+<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/2.jpg" width = "200" height = "200" >
+<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/7.jpg" width = "200" height = "200" >
 </p>
