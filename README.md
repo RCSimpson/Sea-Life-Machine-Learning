@@ -24,4 +24,4 @@ I have implemented scraper.py to collect these images in accordance with specifi
 The machine is a simple convolutional neural network. The first layer is a preprocessing layer that scales all RBG inputs to values between zero and one. This ensure that the machin is able to learn more effeciently- values will not 'blow up'. The hyper parameter dictionary then allows the user to specify how many hidden layers one wants to use in addition to the number of neurons and the activation function.
 
 
-<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/summary.JPG" 
+<img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/summary.JPG" >
