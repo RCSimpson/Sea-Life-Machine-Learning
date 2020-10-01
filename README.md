@@ -1,4 +1,4 @@
-# Sea-Life-Machine-Learning
+# Sea Life Machine Learning
 
 <!-- TABLE OF CONTENTS -->
 # Table of Contents
