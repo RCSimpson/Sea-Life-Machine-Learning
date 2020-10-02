@@ -48,4 +48,6 @@ When running the machine I used the following dictionary:
 
 A great number of epochs aren't necessary. Certain parameter choices are obvious given the fact we are training a neural network to classify and make predictions about images so we choose sparse categorical crossentropy as the lost function.
 
+After taining we have have the following final epochs and summary.
+
 <img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/summary.JPG" >
