@@ -24,4 +24,19 @@ I have implemented scraper.py to collect these images in accordance with specifi
 The machine is a simple convolutional neural network. The first layer is a preprocessing layer that scales all RBG inputs to values between zero and one. This ensure that the machin is able to learn more effeciently- values will not 'blow up'. The hyper parameter dictionary then allows the user to specify how many hidden layers one wants to use in addition to the number of neurons and the activation function.
 
 
+When running the machine I used the following dictionary:
+
+-hyp_params = dict()
+-hyp_params['activation'] = 'relu'
+-hyp_params['number_of_layers'] = 4
+-hyp_params['number_of_classes'] = 4
+-hyp_params['middle_neurons'] = 10
+-hyp_params['end_neurons'] = 128
+-hyp_params['optimizer'] = 'adam'
+-hyp_params['loss'] = tf.losses.SparseCategoricalCrossentropy(from_logits=True)
+-hyp_params['metric'] = 'accuracy'
+-hyp_params['epochs'] =  20
+
+A great number of epochs aren't necessary. Certain parameter choices are obvious given the fact we are training a neural network to classify and make predictions about images so we choose sparse categorical crossentropy as the lost function.
+
 <img src = "https://github.com/RCSimpson/Sea-Life-Machine-Learning/blob/master/images/summary.JPG" >
